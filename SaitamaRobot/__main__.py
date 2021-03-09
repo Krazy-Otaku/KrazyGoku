@@ -59,7 +59,7 @@ You can find my list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm Dr Stone & I help admins to manage their groups! Have a look at the following for an idea of some of \
+I'm Dr Son Goku & I help admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -77,10 +77,10 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://images6.alphacoders.com/112/thumb-1920-1126615.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/4cf0562f41d06c365eb8a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Senku is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
+Son Goku is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
 You can donate to the original writer of the Base code, Paul
 There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
